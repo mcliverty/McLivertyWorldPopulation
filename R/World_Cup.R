@@ -1,0 +1,15 @@
+#' A data set of Fifa World Cup matches and attendance from 1950 to 2020.
+#'
+#' @format a data frame with 22 observations of 5 variables
+#' \describe{
+#'   \item{Year}{Year of Fifa World Cup from as early as 1930 and up to 2022}
+#'   \item{Hosts}{The country that hosted the World Cup}
+#'   \item{Matches}{The number of matches held}
+#'   \item{Totalattendance}{Total attendance of observed years}
+#'   \item{Averageattendance}{Total attendance of observed years}
+#'
+#' }
+
+#' @source \url{https://en.wikipedia.org/wiki/FIFA_World_Cup}
+
+"World_Cup"
